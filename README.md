@@ -16,6 +16,14 @@ python client.py
 
 python client2.py
 
+### To view a list of all connected clients:
+
+LIST
+
+### To record the chat session to a text file:
+
+FILE
+
 ### SSL Socket Client/Server Examples
 
 - [SSL Socket](https://gist.github.com/Oborichkin/d8d0c7823fd6db3abeb25f69352a5299)
