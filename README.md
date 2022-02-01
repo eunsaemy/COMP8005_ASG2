@@ -1,6 +1,6 @@
 # COMP8005_ASG2
 
-##COMP 8005 - Assignment 2
+## COMP 8005 - Assignment 2
 
 To run server.py:
 
