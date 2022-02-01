@@ -2,15 +2,15 @@
 
 ## COMP 8005 - Assignment 2
 
-To run server.py:
+### To run server.py:
 
 python server.py
 
-To run client.py:
+### To run client.py:
 
 python client.py
 
-To run client2.py:
+### To run client2.py:
 
 python client2.py
 
