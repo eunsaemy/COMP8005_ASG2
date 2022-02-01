@@ -18,8 +18,8 @@ python client2.py
 
 ### SSL Socket Client/Server Examples
 
-- [SSL Socket] (https://gist.github.com/Oborichkin/d8d0c7823fd6db3abeb25f69352a5299)
-- [generating ssl keys using openssl] (https://www.cockroachlabs.com/docs/stable/create-security-certificates-openssl.html)
+- [SSL Socket](https://gist.github.com/Oborichkin/d8d0c7823fd6db3abeb25f69352a5299)
+- [generating ssl keys using openssl](https://www.cockroachlabs.com/docs/stable/create-security-certificates-openssl.html)
 
 ```sh
 openssl req -newkey rsa:2048 -nodes -keyout privkey.pem -x509 -days 36500 -out certificate.pem
