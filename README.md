@@ -18,6 +18,7 @@ A secure chat client/server application with SSL network communications. The ser
 
 ### SSL Socket Client/Server Examples
 
+- [SSL Socket] (https://gist.github.com/Oborichkin/d8d0c7823fd6db3abeb25f69352a5299)
 - [generating ssl keys using openssl] (https://www.cockroachlabs.com/docs/stable/create-security-certificates-openssl.html)
 
 ```sh
