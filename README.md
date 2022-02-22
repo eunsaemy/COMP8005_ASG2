@@ -6,15 +6,15 @@ A secure chat client/server application with SSL network communications. The ser
 
 ### To run server.py:
 
-python server.py
+```python server.py```
 
 ### To run client.py:
 
-python client.py
+```python client.py```
 
 ### To run client2.py:
 
-python client2.py
+```python client2.py```
 
 ### To view a list of all connected clients:
 
